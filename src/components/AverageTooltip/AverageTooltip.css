@@ -1,0 +1,17 @@
+.tooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 39px;
+    height: 25px;
+    background-color: #FFFFFF;
+}
+
+.tooltip p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 24px;
+    color: #000000;
+}

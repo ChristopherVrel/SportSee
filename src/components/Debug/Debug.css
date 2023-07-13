@@ -1,0 +1,24 @@
+.debug-container {
+    background-color: #020203;
+    position: fixed;
+    z-index: 9999;
+    bottom: 0;
+    right: 0;
+    padding: 1rem 2rem 2rem;
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+}
+
+.debug-title {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: .5rem;
+}
+
+.debug-title span {
+    color: #2cd37b;
+}
