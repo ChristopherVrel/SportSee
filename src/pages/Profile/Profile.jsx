@@ -8,7 +8,7 @@ import Activity from "../../components/Activity/Activity";
 import Average from "../../components/Average/Average";
 import Performance from "../../components/Performance/Performance";
 import Score from "../../components/Score/Score";
-import getAllUserData from "../../utils/getAllData";
+import getAllUserData from "../../utils/getAllUserData";
 
 const Profile = () => {
     const [userID, setUserID] = useState();
